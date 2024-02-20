@@ -1,0 +1,68 @@
+.nav-Bar {
+  background-color: #cbd5e1;
+  padding: 25px;
+}
+.logo-size {
+  height: 40px;
+  width: 100px;
+}
+.ph-Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+.select {
+  height: 35px;
+  width: 300px;
+  background-color: transparent;
+  border-radius: 5px;
+  border-color: #e2e8f0;
+  border-width: 1px;
+  padding: 5px;
+  color: #475569;
+  align-self: flex-start;
+}
+
+.ul-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.options {
+  font-family: 'roboto';
+}
+.li-card {
+  list-style-type: none;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  box-shadow: 2px 5px 5px #e2e8f0;
+}
+.image {
+  width: 200px;
+}
+.heading {
+  font-family: 'roboto';
+}
+.image {
+  height: 100px;
+  width: 100%;
+}
+.heading {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #475569;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  height: 200px;
+  width: 80%;
+}
